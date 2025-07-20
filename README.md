@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python and Data Engineering Topics**
 
-- 📫 How to reach me **pgp.poloni@gmail.com**
+- 📫 How to reach me contact on [LinkedIn](https://www.linkedin.com/in/pier-giorgio-poloni/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
