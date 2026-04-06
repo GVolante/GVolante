@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pier Giorgio Poloni</h1>
 <h3 align="center">A passionate Data Engineer from Italy</h3>
 
-- 🔭 I’m currently working on [Ridemovi](https://www.ridemovi.com/it/)
+- 🔭 I’m currently working on [Flipp](https://flipp.com/)/[Shopfully](https://shopfully.com/)
 
-- 🌱 I’m currently learning **PySpark and Databricks**
+- 🌱 I’m currently learning **Spark and Databricks**
 
 - 💬 Ask me about **Python and Data Engineering Topics**
 
